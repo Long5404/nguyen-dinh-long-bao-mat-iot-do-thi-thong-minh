@@ -15,3 +15,12 @@
 ## Công cụ & Nguồn tham chiếu chính
 1. OWASP IoT Security Verification Standard (ISVS)
 2. OWASP Internet of Things Project
+
+##Cấu trúc thư mục Repo
+* `report/`: Chứa file Báo cáo tiểu luận tích lũy qua các tuần (.docx và .pdf)
+* `slides/`: Chứa Slide trình bày báo cáo cuối kỳ
+* `src/`: Mã nguồn mô phỏng gửi nhận dữ liệu cảm biến
+* `configs/`: Chứa file cấu hình hệ thống (như cấu hình Node-RED, mosquitto...)
+* `data/`: Chứa payload dữ liệu cảm biến giả lập
+* `results/`: Lưu trữ ảnh chụp minh chứng (screenshots) và log hoạt động
+* `references/`: Danh mục tài liệu tham khảo và link nguồn sử dụng
