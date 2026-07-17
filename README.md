@@ -1,6 +1,6 @@
 # Học phần: Bảo mật IoT (INT4410) - Học kỳ 3 (2025-2026)
 
-* **Đề tài số 07**: Bảo mật IoT trong đô thị thông minh
+* **Đề tài số 07**: Bảo mật IoT trong đô thị thông minh - Hệ thống cảm biến môi trường đô thị (Urban Environmental Sensing)
 * **Sinh viên thực hiện**: Nguyễn Đình Long
 * **Mã số sinh viên**: 231A010024
 * **Lớp học phần**: INT4410
@@ -15,8 +15,9 @@
 ## Công cụ & Nguồn tham chiếu chính
 1. OWASP IoT Security Verification Standard (ISVS)
 2. OWASP Internet of Things Project
+3. Note-RED
 
-##Cấu trúc thư mục Repo
+## Cấu trúc thư mục Repo
 * `report/`: Chứa file Báo cáo tiểu luận tích lũy qua các tuần (.docx và .pdf)
 * `slides/`: Chứa Slide trình bày báo cáo cuối kỳ
 * `src/`: Mã nguồn mô phỏng gửi nhận dữ liệu cảm biến
@@ -24,3 +25,6 @@
 * `data/`: Chứa payload dữ liệu cảm biến giả lập
 * `results/`: Lưu trữ ảnh chụp minh chứng (screenshots) và log hoạt động
 * `references/`: Danh mục tài liệu tham khảo và link nguồn sử dụng
+
+## Cam kết An toàn Học thuật & Kỹ thuật
+Tôi cam kết toàn bộ thử nghiệm và mô phỏng trong đề tài này chỉ được thực hiện trong môi trường cục bộ (local/Docker) hoặc dữ liệu giả lập được cho phép; tuyệt đối không quét, khai thác, thử nghiệm hay tấn công các hệ thống đô thị thông minh đang vận hành thực tế. Bản báo cáo và sản phẩm là kết quả làm việc nghiêm túc, không chứa mã độc, secret, token hay dữ liệu cá nhân thật của người khác.
